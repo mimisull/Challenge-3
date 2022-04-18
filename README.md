@@ -4,7 +4,8 @@ The Directory for this respoitory is:
 [Summary](https://github.com/mimisull/Challenge-3/blob/main/README.md)
 [Code](https://github.com/mimisull/Challenge-3/blob/main/crypto_arbitrage.ipynb)
 **Challenge Arbitrage Opportunity for Bitcoin**
-> Specifically, BizOps wants to know if this software can prompt the user to save the qualifying loans as a new CSV file.
+Specifically, The vice president (VP) of your department is considering arbitrage opportunities in Bitcoin and other cryptocurrencies. As Bitcoin trades on markets across the globe, can you capitalize on simultaneous price dislocations in those markets by using the powers of Pandas?
+
 *User Story*:
 As a user, I need the ability to compare data from Coinbase and from Bitstamp and find where their are price differences so that I can make profitable trades without sorting manually through spreadsheets.
 
